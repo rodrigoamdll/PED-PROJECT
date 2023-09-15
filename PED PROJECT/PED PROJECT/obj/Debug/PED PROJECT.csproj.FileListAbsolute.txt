@@ -1,0 +1,48 @@
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.exe.config
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.exe
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.pdb
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\Guna.UI.dll
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.Properties.Resources.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.CopyComplete
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.exe
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.pdb
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmAddUser.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmLogin.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmMessage.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\CircularProgressBar.dll
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\WinFormAnimation.dll
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\bin\Debug\CircularProgressBar.xml
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmWelcome.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmMenu.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmAddTask.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmHome.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmDeleteTask.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmEditTask.resources
+C:\Users\IT\source\repos\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmViewTask.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.exe.config
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.exe
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\PED PROJECT.pdb
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\CircularProgressBar.dll
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\WinFormAnimation.dll
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\bin\Debug\CircularProgressBar.xml
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmAddTask.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmAddUser.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmDeleteTask.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmEditTask.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmHome.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmLogin.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmMenu.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmMessage.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmViewTask.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.frmWelcome.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED_PROJECT.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.csproj.CopyComplete
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.exe
+C:\Users\ANGEL\Desktop\PED PROJECT\PED PROJECT\obj\Debug\PED PROJECT.pdb
